@@ -1,0 +1,42 @@
+h1{
+    margin:40px 40px ;
+    padding:20px 20px;
+    color: yellow;
+    background:black;
+    font-size:4rem;
+    text-align:center;
+}
+h2{
+    margin:40px 40px ;
+    padding:20px 20px;
+    color:red;
+    background:black;
+    font-size:3rem;
+    text-align:center;
+
+}
+.a{
+    margin:40px 40px ;
+    padding:20px 20px;
+    color:orange;
+    background:black;
+    font-size:2rem;
+
+}
+h3{
+    margin:40px 40px;
+    padding:20px 20px;
+    color:black;
+    background:orange;
+    font-size: 1.5rem;
+}
+h4{
+    margin:40px 40px;
+    padding:20px 20px;
+    color:white;
+    background:red;
+    font-size: 1.25rem
+}
+body{
+    background-color: white;
+}
